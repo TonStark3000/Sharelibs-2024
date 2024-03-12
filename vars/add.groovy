@@ -1,4 +1,4 @@
-def add(x,y)
+def call(x,y)
 {
-  echo "the values are $x and $y is equal to ${x+y}"
+  echo "sum of ${x} and ${y} is equal to ${x+y}"
 }
